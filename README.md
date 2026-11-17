@@ -1,6 +1,8 @@
 # Emberfall
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-best--game--01-%23ff5500)](https://make.fun/bounty/best-game-01)
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/todorichi/emberfall/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/todorichi/emberfall/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 Twin-stick arena shooter: you are the last Lantern Warden, defending the Ember Spire against 10 waves of ash-wraiths. Survive all 10 waves to win. Built with vanilla JS canvas, procedural WebAudio synth, and zero external dependencies.
 
@@ -22,3 +24,5 @@ Then open `http://localhost:8080` in your browser.
 - **Q / Right Click**: Nova bomb (clears screen, consumes embers)
 - **P / Esc**: Pause
 - **M**: Mute audio
+
+<sub>Entered on [make.fun](https://make.fun/?ref=n8pp2h1w&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
